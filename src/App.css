@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -29,4 +30,42 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.imdb-link {
+  border: 2px solid #EEE;
+  box-shadow: 0 2px 2px #CCC;
+  text-decoration: none;
+  padding: 10px;
+  margin: 115px;
+  color: white;
+  background-color: navy;
+  width: 60%
+}
+
+li, a {
+  padding: 10px;
+  text-decoration: none;
+  color: blue;
+  font-size: 20px;
+  margin: 10px;
+}
+
+ul {
+  margin: auto;
+  width: 70%;
+  border-top: 1px solid black;
+}
+
+body {
+  border: 5px solid black;
+  margin: auto;
+  width: 70%;
+  padding: 30px;
+  background-color:
+}
+
+h1{
+  color: navy;
+  text-align: center;
 }
